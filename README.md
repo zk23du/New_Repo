@@ -8,6 +8,8 @@
 | **Armijo**           | 76.42    | 43.84   | 75.63      | -           | -            | -        | -         |
 | **SGD**              | 56.38    | 82.71   | 78.60      | 43.66       | 41.94        | 81.78    | 60.37     |
 
+![Sample Plot](images/cifar10.png)
+
 <h5>Cifar100</h5>
 
 | **Local Optimizers** | **Adam** | **DFW** | **FedAvg** | **FedProx** | **SCAFFOLD** | **DoWG** | **CDoWG** |
