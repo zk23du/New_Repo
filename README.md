@@ -18,6 +18,8 @@
 | **Armijo**           | 74.29    | 38.42   | 51.63      | -           | -            | -        | -         |
 | **SGD**              | 47.88    | 52.24   | 47.15      | 29.71       | 38.91        | 50.75    | 44.40     |
 
+![Sample Plot](images/cifar100.jpg)
+
 <h5>Femnist</h5>
 
 | **Local Optimizers** | **Adam** | **DFW** | **FedAvg** | **FedProx** | **SCAFFOLD** | **DoWG** | **CDoWG** |
@@ -25,6 +27,8 @@
 | **DFW**              | 84.24    | 83.08   | -          | -           | -            | -        | -         |
 | **Armijo**           | 80.95    | 80.68   | -          | -           | -            | -        | -         |
 | **SGD**              | 76.70    | 84.79   | 84.67      | 73.13       | 66.91        | 84.05    | 81.56     |
+
+![Sample Plot](images/femnist.jpg)
 
 <h5>Shakespeare</h5>
 
@@ -34,6 +38,7 @@
 | **Armijo**           | 39.23    | 39.36   | 40.32      | -           | -            | -        | -         |
 | **SGD**              | 46.16    | 39.83   | 40.03      | 46.48       | 37.71        | 37.10    | 20.62     |
 
+![Sample Plot](images/shakespeare.jpg)
 
 <h4>Loss</h4>
 ## CIFAR-10
